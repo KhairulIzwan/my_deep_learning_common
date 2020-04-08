@@ -1,3 +1,12 @@
+##################################################
+## {Description}: Rename and resize the dataset by 
+## numbering format e.g.: 000001.png
+##################################################
+## Author: Nurshafikah Binti Darwis
+## Version: {1}.{0}.{1}
+## Email: {shafikahdarwis@gmail.com}
+##################################################
+
 # import the necessary packages
 from imutils import paths
 import argparse
